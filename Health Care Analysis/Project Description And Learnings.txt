@@ -1,0 +1,8 @@
+
+The Healthcare Insights Dashboard represents a comprehensive analytics solution tailored to unveil actionable insights within pharmaceutical sales and patient treatment trends across the healthcare sector. Harnessing the robust visualization capabilities of Power BI, this dashboard furnishes healthcare professionals, pharmaceutical entities, and policymakers with a potent instrument for informed decision-making grounded in data. My project primarily concentrated on discerning sales patterns and highlighting the highest and lowest performing products.
+
+Key Insights from the Project:
+• Developed an interactive dashboard for the meticulous tracking and analysis of medicine sales data.
+• Employed intricate parameters to delve deeper into the data within worksheets, allowing for customization through filters and slicers.
+• Established connections, integrated new tables, performed calculations to manipulate data, and facilitated user-driven parameters for visualizations.
+• Utilized an array of customized visualizations, including bar charts, pie charts, donut charts, clustered bar charts, scatter charts, line charts, area charts, maps, and slicers, among others.
